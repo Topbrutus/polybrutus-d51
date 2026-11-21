@@ -1,0 +1,9 @@
+# Polybrutus D51 - immutable source provenance
+
+**Human scientific author:** Gabriel St-Pierre, independent researcher. **Material AI assistance:** OpenAI ChatGPT (Astra) developed two exact checkers, numerical-free checks, manuscript and controlled release; AI is not a scientific author.
+
+**Only scientific direct predecessor:** Topbrutus/polybrutus-d50@v0.1.0, actual peeled Git tag \`e94150cdafe611ef3522fc77de76bf931a64b749\`, DOI 10.5281/zenodo.24429826. Original full frozen tag ZIP: \`prior/d50/frozen_scientific_tag_v0.1.0.zip\`, exactly 2785666 bytes and 31 entries, ZIP CRC PASS, SHA-256 \`0130c197acd8ef08a6a5b4a0d530c40deb9b2bf907f989f2d9cb19204491b1c4\`. Entire earlier archived scientific source hierarchy is nested inside unchanged parent ZIP. The original parent JSON certificate is byte-identically copied at \`prior/d50/results/certificate_d50.json\`, SHA-256 \`e371670c9f5b5acc74780b8d61146b449cdbca234bf6cf0e55e2fb7230fc85d3\`. Both mathematical verifiers enforce archive SHA, CRC and exact original certificate bytes.
+
+**Historical documentary caveat:** D47 original certificate includes an inaccurate text-only D46 grandparent Git tag identifier; already documented in D48 onward. D51 preserves every ancestor as original bytes and independently checks its immediate D50 tag commit. Some original ZIP text differs from Git blobs only in CRLF vs LF endings; the original archive stays untouched.
+
+Zenodo metadata has structured isDerivedFrom to immediate D50 DOI 10.5281/zenodo.24429826 and separate textual references to D50 and historical D7 10.5281/zenodo.24407952. **Limit:** Only a synthetic exact Euclidean labelled metric and a separately selected dimensionless ideal weighted complete graph are demonstrated. There is no experimental measurement, evidence for physical extra dimensions, particles, novel universal theorem, or independent human peer review.

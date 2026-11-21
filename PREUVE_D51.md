@@ -1,0 +1,12 @@
+# Polybrutus D51 - constructive proof and falsification controls
+
+1. Frozen D50 scientific parent: Git tag v0.1.0 commit \`e94150cdafe611ef3522fc77de76bf931a64b749\`, DOI 10.5281/zenodo.24429826; original source ZIP 2785666 bytes, 31 entries, SHA-256 \`0130c197acd8ef08a6a5b4a0d530c40deb9b2bf907f989f2d9cb19204491b1c4\`, CRC PASS; original certificate SHA-256 \`e371670c9f5b5acc74780b8d61146b449cdbca234bf6cf0e55e2fb7230fc85d3\`. Both verifiers authenticate this exact original archive, its internal original certificate bytes and old 1485 pair labels.
+2. Append one perpendicular norm-one point to 55 norm-one vertices. This conserves all 1485 predecessor labelled squared distances and creates 55 distances 2R²; 1540 total exact pairs.
+3. Construct rational Gram G of 7-point rank 3, centered 5-point regular simplex rank 4, and 44 independent unit axes rank 44, giving G PSD rank 51, all unit diagonal. Centered B=HGH=-HDH/2 PSD rank 51. Canonical antipodal pair puts origin in affine hull; minimal affine dimension equals 51.
+4. Exhaustive exact class k=4d²/R² counts 4:6, 7:2, 8:1509, 9:3, 10:10, 12:6, 13:2, 16:2 and unit-radius total squared-distance sum 12367/4. Checks compare *labelled pairs*, not just a histogram.
+5. Separate ideal weighted complete graph with scalar unit masses and weights 1/d_ij² has eigenvalue 28 x45 and 55/2 x4 by exact rational nullity of its Laplacian.
+6. Primary src/verify_d51.py uses exact rational Gram in SymPy. Independent tests/independent_d51.py uses separately defined fractions.Fraction labelled squared-distance rules, not an import of the primary program. Both produce an identical deterministic JSON certificate.
+7. Four primary negative controls reject a damaged new pair, duplicate last vertex, tilted nonorthogonal norm-one new point, and relabelling that preserves histogram but not labels. Independent checker also rejects altered labels and relabelling.
+8. Zenodo gate verifies current dimension keywords fifty-one and multiplicity forty-fivefold, structured isDerivedFrom D50 DOI 10.5281/zenodo.24429826, and separate bibliography with D50 and D7 DOI 10.5281/zenodo.24407952.
+
+**Scope:** Only a synthetic exact Euclidean labelled metric and a separately selected dimensionless ideal weighted complete graph are demonstrated. There is no experimental measurement, evidence for physical extra dimensions, particles, novel universal theorem, or independent human peer review.

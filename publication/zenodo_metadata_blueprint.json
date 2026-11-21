@@ -1,0 +1,36 @@
+{
+  "schema": "POLYBRUTUS-D51-ZENODO-METADATA-QA-v1",
+  "title": "Polybrutus 51D: Exact 56-Point Euclidean Metric and Forty-Fivefold Ideal Graph Mode",
+  "scientific_dimension": 51,
+  "norm_one_vertices": 56,
+  "exact_labelled_squared_pairs": 1540,
+  "model_eigenvalue_28_multiplicity": 45,
+  "model_eigenvalue_55_over_2_multiplicity": 4,
+  "scientific_parent_doi": "10.5281/zenodo.24429826",
+  "historical_7d_doi": "10.5281/zenodo.24407952",
+  "keywords": [
+    "Polybrutus",
+    "affine Euclidean dimension fifty-one",
+    "exact labelled squared-distance metric",
+    "centered Gram rank",
+    "orthogonal conservative completion",
+    "weighted graph Laplacian",
+    "forty-fivefold ideal eigenvalue",
+    "independent rational verification",
+    "mathematical preprint"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24429826",
+      "relation": "isDerivedFrom",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    }
+  ],
+  "references": [
+    "St-Pierre, Gabriel (2026). Polybrutus 50D: Exact 55-Point Euclidean Metric and Forty-Fourfold Ideal Graph Mode. Zenodo. DOI: 10.5281/zenodo.24429826. https://doi.org/10.5281/zenodo.24429826",
+    "St-Pierre, Gabriel (2026). Polybrutus 7D: An Exact Twelve-Point Orthogonal Completion, the 12-35-37 Identity, and an Oscillator Model. Zenodo. DOI: 10.5281/zenodo.24407952. https://doi.org/10.5281/zenodo.24407952"
+  ],
+  "ai_assistance_disclosure": "OpenAI ChatGPT (Astra) materially assisted exact verification programs, mathematical checks, manuscript and controlled publication; AI is not a scientific author",
+  "scientific_limit": "Only a synthetic exact Euclidean labelled metric and a separately selected dimensionless ideal weighted complete graph are demonstrated. There is no experimental measurement, evidence for physical extra dimensions, particles, novel universal theorem, or independent human peer review."
+}
