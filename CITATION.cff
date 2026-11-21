@@ -10,3 +10,5 @@ date-released: 2026-11-21
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d51
 abstract: "Exact 56-point norm-one Euclidean squared-distance metric conserving all 1485 D50 labels, affine rank 51, and separately selected ideal graph."
+doi: 10.5281/zenodo.24430047
+url: https://doi.org/10.5281/zenodo.24430047

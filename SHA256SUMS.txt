@@ -1,0 +1,4 @@
+# SHA-256 hashes for three original Zenodo artifacts DOI 10.5281/zenodo.24430047
+14acd1a7b7756a7a1976bdf4c264f6bc46cd726d09b8b456fbbac65159aa3082  publication/POLYBRUTUS_51D_NOTE.pdf
+2be1437da9996bb133891ad24e7d97b3af6e712a63869c973d7f6d65f6610b38  [external frozen git scientific tag ZIP] POLYBRUTUS_D51_SOURCE_v0.1.0_GITHUB_TAG.zip
+82241bfa72413927790f3d7c390cb75a0e0a44f32e2e05c389519cf5aab34c04  results/certificate_d51.json

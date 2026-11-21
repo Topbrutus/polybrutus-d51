@@ -3,6 +3,16 @@
 **Human scientific author:** Gabriel St-Pierre, independent researcher.
 **AI assistance:** OpenAI ChatGPT (Astra) materially assisted mathematical checks, two independent programs, manuscript and release; AI is not a scientific author.
 
+## Official public Polybrutus D51 DOI and verification
+
+- **DOI:** [10.5281/zenodo.24430047](https://doi.org/10.5281/zenodo.24430047), [public Zenodo record](https://zenodo.org/records/24430047).
+- **Immutable scientific source tag:** [v0.1.0](https://github.com/Topbrutus/polybrutus-d51/tree/v0.1.0) at peeled scientific commit \`d523aada12f90486482fee9f7406be364ea38b36\`.
+- **Main scientific GitHub CI:** https://github.com/Topbrutus/polybrutus-d51/actions/runs/44959395398 — success on the source-equivalent earlier main commit (prior to adding VALIDATION.md).
+- **Scientific frozen tag CI:** https://github.com/Topbrutus/polybrutus-d51/actions/runs/44959443447 — success on the exact scientific tag commit.
+- **Zenodo original artifacts:** source ZIP, scientific manuscript PDF, deterministic exact JSON certificate; all names, MD5 and byte sizes verified via Zenodo public API against original local SHA256.
+- **Current bibliography:** nine fifty-one / forty-fivefold keywords, structured isDerivedFrom DOI D50 10.5281/zenodo.24429826, separate textual references D50 and historical D7 10.5281/zenodo.24407952.
+- **Durable Memoria checkpoint:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D51_PUBLICATION_2026-11-21.md .
+
 ## Reproducible exact rational mathematical construction
 
 - **56** norm-one vertices; **1540 / 1540** exact unordered labelled squared-distance pairs.
